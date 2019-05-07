@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Martin Skarzynski <marskar@gmail.com>
+* Nanami Miyazaki <nanami.miyazaki@nih.gov>
