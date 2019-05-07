@@ -1,15 +1,15 @@
 =========
-myproject
+Rodent Activity Detector(RAD) device data analysis
 =========
 
 
-Add a short description here!
+Code developed to analyze locomotor activity in mice over longitudinal studies. 
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+The code takes data collected by the RAD device as CSV files, concatenates all the data files into a single file, creates new variables (e.g. week #, diet assigned, # of bouts per mintue, seconds active per minute), and plots the average weekly locomotor activity for the 2 groups using a boxplot. 
 
 
 Note
